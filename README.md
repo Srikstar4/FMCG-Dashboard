@@ -128,6 +128,3 @@ Developed by: Srikar Srinivasan
 Role: Data Analyst / BI Developer
 Tools: Power BI, DAX, Excel
 
-Developed by: [Your Name]
-Role: Data Analyst / BI Developer
-Tools: Power BI, DAX, Excel
